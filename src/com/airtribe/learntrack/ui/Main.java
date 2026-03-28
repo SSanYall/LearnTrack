@@ -23,6 +23,7 @@ public class Main {
 
     public void main() {
 
+        // Calling menu method to start the application
         mainMenu();
 
     }
